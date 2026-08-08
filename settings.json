@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "spurex.aternos.me ",
+    "ip": "spurex.aternos.me",
     "port": 42339,
     "version": "",
     "try-creative": false
